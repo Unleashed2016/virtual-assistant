@@ -167,7 +167,7 @@ $(document).ready(function () {
   messenger.onRecieve = buildRecieved;
 
   setTimeout(() => {
-    messenger.recieve("Hello, I'm virtual assistant Alex. How are you feeling today?");
+    messenger.recieve("Hello, I'm virtual assistant Bob. How are you feeling today?");
   }, 1500);
   
     setTimeout(() => {
