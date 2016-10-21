@@ -1,9 +1,9 @@
 # Virtual assistant demo for Help Me project
 
-See project at: https://github.com/Unleashed2016/helpme
+Virtual assistant demo url: https://unleashed2016.github.io/virtual-assistant/
 
-Demo url: https://github.com/Unleashed2016/virtual-assistant/
+See project at: https://github.com/Unleashed2016/helpme
 
 ## Attribution
 
-Material design chat UI framework by Blake Tarter - license[https://github.com/Unleashed2016/virtual-assistant/license.txt]
+Material design chat UI framework by Blake Tarter - ![license](https://github.com/Unleashed2016/virtual-assistant/blob/master/license.txt)
