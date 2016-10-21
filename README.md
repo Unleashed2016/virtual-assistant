@@ -6,4 +6,4 @@ See project at: https://github.com/Unleashed2016/helpme
 
 ## Attribution
 
-Material design chat UI framework by Blake Tarter - ![license](https://github.com/Unleashed2016/virtual-assistant/blob/master/license.txt)
+Material design chat UI framework by Blake Tarter - [license](https://github.com/Unleashed2016/virtual-assistant/blob/master/license.txt)

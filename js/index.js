@@ -172,23 +172,23 @@ $(document).ready(function () {
   
     setTimeout(() => {
     messenger.send("I'm feeling sad");
-  }, 2500);
+  }, 4500);
 
   setTimeout(() => {
     messenger.recieve("Do you need immediate attention or want to speak to someone?");
-  }, 5000);
+  }, 9000);
   
       setTimeout(() => {
     messenger.send("I'm feeling really down and I'm sick and tired of my life.");
-  }, 7000);
+  }, 11000);
 
   setTimeout(() => {
     messenger.recieve("I suggest you speak to an available professional. Let me grab a list of available experts for you to select.");
-  }, 9500);
+  }, 15000);
 
   setTimeout(() => {
     messenger.recieve("We've three experts available - Bryan, Sarah and Jane. Who would you like to talk to?");
-  }, 12500);
+  }, 19500);
 
   $input.focus();
 
